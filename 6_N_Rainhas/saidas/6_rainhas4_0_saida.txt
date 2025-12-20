@@ -1,0 +1,13 @@
+Solução para 4-Rainhas:
+
+Posições (coluna, linha):
+  Rainha 0: (0, 2)
+  Rainha 1: (1, 0)
+  Rainha 2: (2, 3)
+  Rainha 3: (3, 1)
+
+Tabuleiro 4x4:
+. ♛ . . 
+. . . ♛ 
+♛ . . . 
+. . ♛ . 

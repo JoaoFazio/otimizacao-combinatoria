@@ -1,0 +1,21 @@
+Solução para 8-Rainhas:
+
+Posições (coluna, linha):
+  Rainha 0: (0, 4)
+  Rainha 1: (1, 1)
+  Rainha 2: (2, 3)
+  Rainha 3: (3, 5)
+  Rainha 4: (4, 7)
+  Rainha 5: (5, 2)
+  Rainha 6: (6, 0)
+  Rainha 7: (7, 6)
+
+Tabuleiro 8x8:
+. . . . . . ♛ . 
+. ♛ . . . . . . 
+. . . . . ♛ . . 
+. . ♛ . . . . . 
+♛ . . . . . . . 
+. . . ♛ . . . . 
+. . . . . . . ♛ 
+. . . . ♛ . . . 

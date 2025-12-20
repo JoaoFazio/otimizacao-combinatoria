@@ -1,0 +1,124 @@
+Número de recipientes utilizados: 61
+
+Recipiente 1: itens [14]
+  Capacidade usada: 35/35
+Recipiente 2: itens [53]
+  Capacidade usada: 35/35
+Recipiente 3: itens [60]
+  Capacidade usada: 35/35
+Recipiente 4: itens [68]
+  Capacidade usada: 35/35
+Recipiente 5: itens [92]
+  Capacidade usada: 35/35
+Recipiente 6: itens [25]
+  Capacidade usada: 34/35
+Recipiente 7: itens [58]
+  Capacidade usada: 34/35
+Recipiente 8: itens [64]
+  Capacidade usada: 34/35
+Recipiente 9: itens [87]
+  Capacidade usada: 34/35
+Recipiente 10: itens [6]
+  Capacidade usada: 33/35
+Recipiente 11: itens [21]
+  Capacidade usada: 33/35
+Recipiente 12: itens [41]
+  Capacidade usada: 33/35
+Recipiente 13: itens [46]
+  Capacidade usada: 33/35
+Recipiente 14: itens [48]
+  Capacidade usada: 33/35
+Recipiente 15: itens [76]
+  Capacidade usada: 33/35
+Recipiente 16: itens [88]
+  Capacidade usada: 33/35
+Recipiente 17: itens [8, 56]
+  Capacidade usada: 35/35
+Recipiente 18: itens [31, 86]
+  Capacidade usada: 35/35
+Recipiente 19: itens [40]
+  Capacidade usada: 32/35
+Recipiente 20: itens [45]
+  Capacidade usada: 32/35
+Recipiente 21: itens [26, 12]
+  Capacidade usada: 35/35
+Recipiente 22: itens [35, 70]
+  Capacidade usada: 35/35
+Recipiente 23: itens [65, 90]
+  Capacidade usada: 35/35
+Recipiente 24: itens [74]
+  Capacidade usada: 31/35
+Recipiente 25: itens [4, 55]
+  Capacidade usada: 35/35
+Recipiente 26: itens [16]
+  Capacidade usada: 30/35
+Recipiente 27: itens [91]
+  Capacidade usada: 30/35
+Recipiente 28: itens [20, 37]
+  Capacidade usada: 35/35
+Recipiente 29: itens [34, 3]
+  Capacidade usada: 35/35
+Recipiente 30: itens [28, 0]
+  Capacidade usada: 35/35
+Recipiente 31: itens [33, 1]
+  Capacidade usada: 34/35
+Recipiente 32: itens [82, 50]
+  Capacidade usada: 34/35
+Recipiente 33: itens [89, 47]
+  Capacidade usada: 33/35
+Recipiente 34: itens [99, 83]
+  Capacidade usada: 33/35
+Recipiente 35: itens [7, 42]
+  Capacidade usada: 35/35
+Recipiente 36: itens [22, 57]
+  Capacidade usada: 31/35
+Recipiente 37: itens [23, 75]
+  Capacidade usada: 31/35
+Recipiente 38: itens [85]
+  Capacidade usada: 25/35
+Recipiente 39: itens [77, 5]
+  Capacidade usada: 35/35
+Recipiente 40: itens [18, 69]
+  Capacidade usada: 35/35
+Recipiente 41: itens [32, 19]
+  Capacidade usada: 34/35
+Recipiente 42: itens [43, 29]
+  Capacidade usada: 34/35
+Recipiente 43: itens [93, 38]
+  Capacidade usada: 34/35
+Recipiente 44: itens [95, 62]
+  Capacidade usada: 34/35
+Recipiente 45: itens [94, 2]
+  Capacidade usada: 35/35
+Recipiente 46: itens [98, 10]
+  Capacidade usada: 35/35
+Recipiente 47: itens [9, 61]
+  Capacidade usada: 35/35
+Recipiente 48: itens [66, 71]
+  Capacidade usada: 35/35
+Recipiente 49: itens [24, 27]
+  Capacidade usada: 35/35
+Recipiente 50: itens [30, 59]
+  Capacidade usada: 35/35
+Recipiente 51: itens [51, 67]
+  Capacidade usada: 35/35
+Recipiente 52: itens [81, 78]
+  Capacidade usada: 34/35
+Recipiente 53: itens [13, 17]
+  Capacidade usada: 35/35
+Recipiente 54: itens [36, 54]
+  Capacidade usada: 35/35
+Recipiente 55: itens [52, 11]
+  Capacidade usada: 32/35
+Recipiente 56: itens [96, 73]
+  Capacidade usada: 32/35
+Recipiente 57: itens [15, 39]
+  Capacidade usada: 35/35
+Recipiente 58: itens [80, 44]
+  Capacidade usada: 35/35
+Recipiente 59: itens [49, 72]
+  Capacidade usada: 34/35
+Recipiente 60: itens [84, 79]
+  Capacidade usada: 30/35
+Recipiente 61: itens [97, 63]
+  Capacidade usada: 24/35

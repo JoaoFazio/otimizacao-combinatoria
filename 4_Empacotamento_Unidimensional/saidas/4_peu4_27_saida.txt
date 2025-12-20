@@ -1,0 +1,56 @@
+Número de recipientes utilizados: 27
+
+Recipiente 1: itens [47]
+  Capacidade usada: 30/30
+Recipiente 2: itens [26]
+  Capacidade usada: 29/30
+Recipiente 3: itens [36]
+  Capacidade usada: 29/30
+Recipiente 4: itens [30]
+  Capacidade usada: 28/30
+Recipiente 5: itens [13, 25]
+  Capacidade usada: 30/30
+Recipiente 6: itens [42, 9]
+  Capacidade usada: 30/30
+Recipiente 7: itens [1, 19]
+  Capacidade usada: 30/30
+Recipiente 8: itens [5, 29]
+  Capacidade usada: 30/30
+Recipiente 9: itens [3, 8]
+  Capacidade usada: 30/30
+Recipiente 10: itens [7, 33]
+  Capacidade usada: 30/30
+Recipiente 11: itens [41, 35]
+  Capacidade usada: 29/30
+Recipiente 12: itens [16, 15]
+  Capacidade usada: 30/30
+Recipiente 13: itens [18, 34]
+  Capacidade usada: 29/30
+Recipiente 14: itens [6, 24, 28]
+  Capacidade usada: 29/30
+Recipiente 15: itens [17, 40, 48]
+  Capacidade usada: 29/30
+Recipiente 16: itens [49, 11]
+  Capacidade usada: 30/30
+Recipiente 17: itens [2, 27]
+  Capacidade usada: 29/30
+Recipiente 18: itens [4, 43]
+  Capacidade usada: 22/30
+Recipiente 19: itens [22]
+  Capacidade usada: 19/30
+Recipiente 20: itens [31, 37]
+  Capacidade usada: 30/30
+Recipiente 21: itens [38, 44]
+  Capacidade usada: 30/30
+Recipiente 22: itens [14, 12]
+  Capacidade usada: 30/30
+Recipiente 23: itens [32, 46]
+  Capacidade usada: 29/30
+Recipiente 24: itens [0, 23]
+  Capacidade usada: 30/30
+Recipiente 25: itens [10, 39]
+  Capacidade usada: 30/30
+Recipiente 26: itens [21, 45]
+  Capacidade usada: 30/30
+Recipiente 27: itens [20]
+  Capacidade usada: 15/30

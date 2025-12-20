@@ -1,0 +1,38 @@
+Número de recipientes utilizados: 18
+
+Recipiente 1: itens [13]
+  Capacidade usada: 25/25
+Recipiente 2: itens [17]
+  Capacidade usada: 25/25
+Recipiente 3: itens [20]
+  Capacidade usada: 25/25
+Recipiente 4: itens [18]
+  Capacidade usada: 24/25
+Recipiente 5: itens [21]
+  Capacidade usada: 24/25
+Recipiente 6: itens [22, 10]
+  Capacidade usada: 25/25
+Recipiente 7: itens [19, 15]
+  Capacidade usada: 25/25
+Recipiente 8: itens [26, 12]
+  Capacidade usada: 23/25
+Recipiente 9: itens [29]
+  Capacidade usada: 20/25
+Recipiente 10: itens [3, 8]
+  Capacidade usada: 25/25
+Recipiente 11: itens [14, 16]
+  Capacidade usada: 25/25
+Recipiente 12: itens [1, 11]
+  Capacidade usada: 25/25
+Recipiente 13: itens [23, 0]
+  Capacidade usada: 25/25
+Recipiente 14: itens [2, 25]
+  Capacidade usada: 24/25
+Recipiente 15: itens [4, 9]
+  Capacidade usada: 23/25
+Recipiente 16: itens [24, 7]
+  Capacidade usada: 21/25
+Recipiente 17: itens [28, 5]
+  Capacidade usada: 25/25
+Recipiente 18: itens [6, 27]
+  Capacidade usada: 19/25

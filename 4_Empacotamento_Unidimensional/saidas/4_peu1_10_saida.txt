@@ -1,0 +1,22 @@
+Número de recipientes utilizados: 10
+
+Recipiente 1: itens [9]
+  Capacidade usada: 20/20
+Recipiente 2: itens [11]
+  Capacidade usada: 19/20
+Recipiente 3: itens [15]
+  Capacidade usada: 19/20
+Recipiente 4: itens [12, 14]
+  Capacidade usada: 20/20
+Recipiente 5: itens [10, 3]
+  Capacidade usada: 19/20
+Recipiente 6: itens [2, 13]
+  Capacidade usada: 20/20
+Recipiente 7: itens [0, 6]
+  Capacidade usada: 20/20
+Recipiente 8: itens [1, 19, 17]
+  Capacidade usada: 20/20
+Recipiente 9: itens [5, 4, 7, 8]
+  Capacidade usada: 20/20
+Recipiente 10: itens [16, 18]
+  Capacidade usada: 14/20
