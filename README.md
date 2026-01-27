@@ -178,8 +178,7 @@ Exemplos:
 - ✅ Saídas nomeadas conforme especificação
 
 ## 👥 Autores
-
-Equipe de até 2 alunos (conforme especificação do trabalho)
+João Gabriel e Vinicius Eduardo
 
 ---
 
