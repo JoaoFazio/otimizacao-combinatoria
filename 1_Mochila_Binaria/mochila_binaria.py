@@ -36,8 +36,43 @@ class MochilaBinaria:
         self.num_itens = len(valores)
        
     def criar_individuo(self):
-        # Cria cromossomo binário aleatório
-        return [random.randint(0, 1) for _ in range(self.num_itens)]
+        # Cria cromossomo binário aleatório respeitando capacidade
+        individuo = [0] * self.num_itens
+        peso_atual = 0
+        
+        # Adiciona itens aleatoriamente até encher a mochila
+        indices = list(range(self.num_itens))
+        random.shuffle(indices)
+        
+        for i in indices:
+            if peso_atual + self.custos[i] <= self.capacidade:
+                individuo[i] = 1
+                peso_atual += self.custos[i]
+        
+        return individuo
+    
+    def reparar_individuo(self, individuo):
+        # Remove itens até caber na capacidade (remove os de pior razão valor/custo)
+        individuo = individuo.copy()
+        peso_total = sum(self.custos[i] * individuo[i] for i in range(self.num_itens))
+        
+        if peso_total <= self.capacidade:
+            return individuo
+        
+        # Calcula razão valor/custo para itens selecionados
+        itens_selecionados = [(i, self.valores[i] / max(self.custos[i], 1)) 
+                              for i in range(self.num_itens) if individuo[i] == 1]
+        # Ordena por pior razão primeiro
+        itens_selecionados.sort(key=lambda x: x[1])
+        
+        # Remove itens até caber
+        for i, _ in itens_selecionados:
+            if peso_total <= self.capacidade:
+                break
+            individuo[i] = 0
+            peso_total -= self.custos[i]
+        
+        return individuo
    
     def criar_populacao_inicial(self):
         # Gera população inicial
@@ -126,6 +161,10 @@ class MochilaBinaria:
                 # Mutação
                 filho1 = self.mutacao(filho1)
                 filho2 = self.mutacao(filho2)
+                
+                # Reparo para garantir viabilidade
+                filho1 = self.reparar_individuo(filho1)
+                filho2 = self.reparar_individuo(filho2)
                
                 nova_populacao.append(filho1)
                 if len(nova_populacao) < TAMANHO_POPULACAO:

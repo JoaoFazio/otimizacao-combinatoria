@@ -1,0 +1,28 @@
+Conexões estabelecidas:
+  Conexão 1: componente 6 <-> componente 8
+  Conexão 2: componente 3 <-> componente 4
+  Conexão 3: componente 0 <-> componente 2
+  Conexão 4: componente 0 <-> componente 7
+  Conexão 5: componente 0 <-> componente 4
+  Conexão 6: componente 4 <-> componente 7
+  Conexão 7: componente 1 <-> componente 7
+  Conexão 8: componente 0 <-> componente 9
+  Conexão 9: componente 2 <-> componente 7
+  Conexão 10: componente 0 <-> componente 6
+  Conexão 11: componente 1 <-> componente 6
+  Conexão 12: componente 2 <-> componente 4
+  Conexão 13: componente 4 <-> componente 9
+  Conexão 14: componente 1 <-> componente 8
+  Conexão 15: componente 6 <-> componente 7
+  Conexão 16: componente 7 <-> componente 9
+  Conexão 17: componente 7 <-> componente 8
+  Conexão 18: componente 4 <-> componente 6
+  Conexão 19: componente 3 <-> componente 7
+  Conexão 20: componente 0 <-> componente 3
+  Conexão 21: componente 2 <-> componente 9
+  Conexão 22: componente 2 <-> componente 8
+  Conexão 23: componente 3 <-> componente 9
+  Conexão 24: componente 1 <-> componente 2
+  Conexão 25: componente 2 <-> componente 6
+
+Custo total (soma das distâncias): 250.22

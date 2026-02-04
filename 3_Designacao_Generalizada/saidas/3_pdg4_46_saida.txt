@@ -1,9 +1,0 @@
-Designação de módulos por programador:
-Programador 0: módulos 3, 8, 11
-Programador 1: módulos 0, 1
-Programador 2: módulos 7, 10
-Programador 3: módulos 4, 5, 9
-Programador 4: módulos 2, 6
-Programador 5: nenhum módulo
-
-Custo total: 46
